@@ -1,0 +1,14 @@
+{
+  "name": "creation-of-google",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/jsherry27/creation-of-google.git",
+  "author": "jsherry27 <jsherry27@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "json-server --watch db.json"
+  },
+  "dependencies": {
+    "json-server": "^0.17.0"
+  }
+}
