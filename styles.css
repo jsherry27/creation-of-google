@@ -20,6 +20,9 @@ body {
 }
 .row h1 {
   font-size: 20px;
+  text-decoration: none;
+  color: blue;
+  font-weight: 100;
 }
 .row p {
   font-size: 14px;
@@ -37,4 +40,5 @@ h1 {
 }
 img {
   border-radius: 10px;
+  /* height: 40px; */
 }
